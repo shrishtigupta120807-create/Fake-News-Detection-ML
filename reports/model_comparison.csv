@@ -1,0 +1,5 @@
+,Original Model,Publisher-Masked Model
+Accuracy,94.93,94.6
+Fake Precision,94.67,94.53
+Fake Recall,94.0,93.36
+Fake F1,94.33,93.94
